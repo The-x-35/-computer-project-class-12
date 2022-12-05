@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Binary
+comment1.params=num
+comment1.target=Binary(int)
+comment2.params=
+comment2.target=void\ readdata()
+comment3.params=v
+comment3.target=int\ binary_search(int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PrintPrime
+comment1.params=
+comment1.target=void\ getdata()
+comment2.params=p\ q
+comment2.target=void\ printp(int,\ int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Trr
+comment1.params=
+comment1.target=Trr()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=
+comment3.target=Trr\ transpose()
+comment4.params=M
+comment4.target=Trr\ product(Trr)
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

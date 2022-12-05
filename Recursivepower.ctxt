@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Recursivepower
+comment1.params=
+comment1.target=Recursivepower()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=k\ l
+comment3.target=int\ powerof(int,\ int)
+comment4.params=
+comment4.target=void\ setpower()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=void\ main()
+numComments=7

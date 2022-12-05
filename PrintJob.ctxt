@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PrintJob
+comment1.params=
+comment1.target=PrintJob()
+comment2.params=
+comment2.target=void\ createJob()
+comment3.params=
+comment3.target=void\ addJob()
+comment4.params=
+comment4.target=void\ removeJob()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

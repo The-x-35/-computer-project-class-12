@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Numbers
+comment1.params=a\ b
+comment1.target=Numbers(int,\ int)
+comment2.params=n
+comment2.target=Numbers\ check(int)
+comment3.params=
+comment3.target=void\ display()
+numComments=4
